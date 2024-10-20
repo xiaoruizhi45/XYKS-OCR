@@ -1,4 +1,7 @@
-Notice !  compare.py is the lastest,
+This whole is just draft, 
+Please don't hold any expectations.
+
+Notice !  main.py is draft, compare.py is the lastest,
 But it still go wrong sometimes.
 
 Important !
