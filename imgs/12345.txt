@@ -1,0 +1,5 @@
+screenshot = pyautogui.screenshot(region=region)
+screenshot = change_color(screenshot)
+screenshot = np.array(screenshot)
+screenshot = cv2.cvtColor(screenshot, cv2.COLOR_RGBA2BGR)
+cv2.imwrite("./imgs/cmp.jpg", screenshot)
